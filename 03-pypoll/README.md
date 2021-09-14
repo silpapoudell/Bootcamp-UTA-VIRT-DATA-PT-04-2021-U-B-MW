@@ -42,7 +42,7 @@ The winner of the election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
-<img src="result.png"></img>
+<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
 
 
 
