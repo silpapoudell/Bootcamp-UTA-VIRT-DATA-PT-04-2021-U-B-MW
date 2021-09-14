@@ -32,9 +32,9 @@ The three candidates were:
 
 With the candidate results being:
 
-- Charles Casper Stockham received 23.0% of the vote.
-- Diana DeGette received 73.8% of the vote.
-- Candidate 3 received 3.1% of the vote.
+- Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+- Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+- Candidate 3 received 3.1% of the vote and 11,606 number of votes.
 
 The winner of the election was:
 
