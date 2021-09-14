@@ -11,7 +11,7 @@
 - Explore green energy stock performance by analyzing Wall Street data using VBA.
 
 
-<img src = "Resources/VBA_Challenge_2017">
+<img width="500" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/02-VBA/Resources/VBA_Challenge_2017.png">
 
 
 ## Summary
