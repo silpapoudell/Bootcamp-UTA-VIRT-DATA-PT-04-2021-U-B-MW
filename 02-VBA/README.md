@@ -1,50 +1,38 @@
-# VBA of Wall Street 
-# module 2 Assignment
+# VBA_Challenge
 
 
+## Overview of Project
 
-Overview of Project
-
-The purpose of this project is to analysis the wall street data using VBA. 
-
+- The purpose of this project is to refactor VBA code and measure performance. 
 
 
+## Results
 
-Results
-
-Explore green energy stock performance by analyzing financial(Wall Street) data using VBA.
+- Explore green energy stock performance by analyzing Wall Street data using VBA.
 
 
-Summary
+<img src = "Resources/VBA_Challenge_2017">
+
+
+## Summary
 
 Compare the code ran in seconds for particular year.
 
 
-VBA advantages
-You can automate almost anything you do in Excel. To do so, you write instructions that Excel carries out.
-Automating a task by using VBA offers several advantages:
 
-Excel always executes the task in exactly the same way. (In most cases, consistency is a good thing.)
+Advantage of refactoring code is that it is easy to use and the fastest way for results. Greater velocity.
+Your code will be better organized after refactoring, though by definition, it won't be any more functional than it was before the changes. 
+Refactoring is just to change the structure of the code base, not its behavior.
 
-Excel performs the task much faster than you can do it manually (unless, of course, you’re Clark Kent).
-
-If you’re a good macro programmer, Excel always performs the task without errors (which probably can’t be said about you or me).
-
-If you set things up properly, someone who doesn’t know anything about Excel can perform the task by running the macro.
-
-You can do things in Excel that are otherwise impossible — which can make you a very popular person around the office.
+Disadvantage is that You have to know which code to use. Greater risk. 
+You can potentially introduce bugs that your tests won't catch. 
+Remember that any time you make a change, there is a potential to introduce a bug.
 
 
+update or improvement of the code without changing the software’s functionality is known as code refactoring. 
+What happens after a couple of days or months yo need to troubleshoot your code? Is it hard to understand? 
+If yes then definitely you didn’t pay attention to improve or update your code.
 
+We need to consider the code refactoring process as cleaning up the orderly house. Unnecessary clutter in a home can create a chaotic and stressful environment. - The same goes for written code.
 
-VBA disadvantages
-It’s only fair that equal time is given to listing the disadvantages (or potential disadvantages) of VBA:
-
-You have to know how to write programs in VBA. Fortunately, it’s not as difficult as you might expect.
-
-Other people who need to use your VBA programs must have their own copies of Excel. It would be nice if you could press a button that transforms your Excel/VBA application into a stand-alone program, but that isn’t possible (and probably never will be).
-
-Sometimes, things go wrong. In other words, you can’t blindly assume that your VBA program will always work correctly under all circumstances. Welcome to the world of debugging and, if others are using your macros, technical support.
-
-VBA is a moving target. As you know, Microsoft is continually upgrading Excel. Even though Microsoft puts great effort into compatibility between versions, you may discover that the VBA code you’ve written doesn’t work properly with older versions or with a future version of Excel.
-
+It's always easy to understand, change and to update the clean and well structured code. 
