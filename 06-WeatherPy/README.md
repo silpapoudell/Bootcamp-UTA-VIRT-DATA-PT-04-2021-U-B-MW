@@ -27,8 +27,8 @@ Current Description    392
 
 
 
-	Aksu	CN	82.42	clear sky	41.12	80.26	
-7	Touros	BR	80.60	broken clouds	-5.20	-35.46	
+	Aksu	 CN	82.42	clear sky	41.12	80.26	
+7	Touros	 BR	80.60	broken clouds	-5.20	-35.46	
 10	Morehead	US	75.20	clear sky	37.27	-87.18	
 11	Port Elizabeth	ZA	84.20	clear sky	-33.92	25.57	
 16	Northam	GB	82.40	few clouds	51.03	-4.22	
