@@ -47,5 +47,5 @@ The winner of the election was:
 
 ## Election-Audit Summary: 
 
-We can use the pypoll_challenge.py with some modification for other elections also. This program is written to analyse the election_results.csv file and read the data to determine the result and print it. 
+We can use the pypoll_challenge.py with some modification for other elections also. This program is written to analyse the election_results.csv file and read the data to calculate the election report with exporting the written analysis. 
 
