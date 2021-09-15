@@ -36,7 +36,7 @@ The purpose of this analysis is to analyze past experience of the retiring emplo
 
 
 
-#Summary 
+## Summary 
 
-As we are analysing the eligible candidate for mentorship, it requires some sort of experience in particular domain(title). 
-Images for supporting this project is attached in images folder here itself.  
+- 903,98 roles will need to be filled as the "silver tsunami" begins to make an impact as these are the number of employees that would be ready for retirement. SELECT COUNT(*)FROM unique_titles.
+- Based on the numbers there are only 1549 retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. SELECT COUNT(*)FROM mentorship_eligibilty.
