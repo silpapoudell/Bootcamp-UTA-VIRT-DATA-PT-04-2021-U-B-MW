@@ -9,8 +9,7 @@ Create entity relationship diagrams,and perform data modeling and analysis on an
 The purpose of this analysis is to analyze past experience of the retiring employees by title and then show eligible employees to participate for mentorship program. 
 
 
-<img width="500" src = "https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/07-Employee/Pewlett-Hackard-Analysis/images/mentoring_titles.png">
-
+<img width="500" src = "https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/07-Employee/Pewlett-Hackard-Analysis/images/ERDiagram.png">
 
 ## Results:
 
