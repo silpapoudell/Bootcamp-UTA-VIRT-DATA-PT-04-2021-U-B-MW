@@ -7,14 +7,19 @@ The purpose of this analysis is to create a supervised machine learning model th
 
 ## Results:
 
-Naive Random Oversampling
+- Naive Random Oversampling
+
 Accuracy Score: 67.4%
+
 Precision High Risk: 1%
+
 Precision Low Risk: 100%
+
 Recall High Risk: 72%
+
 Recall Low Risk: 63%
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/oversampling.png">
 
 
 SMOTE Oversampling
@@ -35,7 +40,7 @@ Recall High Risk: 61%
 Recall Low Risk: 42%
 
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/undersampling.png">
 
 
 SMOTEENN Sampling
@@ -46,7 +51,7 @@ Recall High Risk: 76%
 Recall Low Risk: 60%
 
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/SMOTEENN.png">
 
 
 Balanced Random Forest Classifying
@@ -56,7 +61,7 @@ Precision Low Risk: 100%
 Recall High Risk: 30%
 Recall Low Risk: 100%
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/random_forest.png">
 
 
 Easy Ensemble Classifying
@@ -67,7 +72,7 @@ Recall High Risk: 91%
 Recall Low Risk: 94%
 
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/easy_ensemble.png">
 
 
 
