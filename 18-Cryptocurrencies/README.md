@@ -4,7 +4,7 @@
 
 ## Overview:
 
-The analysis involves preprocessing the data, using PCA to reduce dimensions, clustering with the K-Means algorithm and creating visualizations with hvplot.
+The analysis is about the data-preprocessing, using PCA to reduce dimensions, clustering with the K-Means algorithm and creating visualizations with hvplot.
 
 
 
