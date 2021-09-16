@@ -19,7 +19,7 @@ Variable that were neither targets or features for the dataset: Columns that I d
 The variable that should be removed are the identification variables: EIN and NAME. They are being excluded as they do not provide any additional data to the data set.
 
 
-# Compiling, Training, and Evaluating the Model
+## Compiling, Training, and Evaluating the Model
 
 For neural network model, we had 2 hidden layers.Our first layer had 80 neurons, the second has 30 there is also an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
@@ -27,8 +27,7 @@ Was the model able to achieve the target model performance?
 
 The model was not able to reach the target 75%. The accuracy for my model was 69%.
 
-
-## The steps taken to try and increase model performance
+The steps taken to try and increase model performance: 
 
 - Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 63%.
 
