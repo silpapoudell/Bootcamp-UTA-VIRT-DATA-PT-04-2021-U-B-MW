@@ -25,7 +25,7 @@ Recall High Risk: 66%
 Recall Low Risk: 66%
 
 
-<img width="539" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/Pypoll-03/result.PNG">
+<img width="539" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/17-Credit_Risk_Analysis/Images/SMOTE.png">
 
 Cluster Centroid Undersampling
 Accuracy Score: 51.3%
